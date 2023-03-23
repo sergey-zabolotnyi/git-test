@@ -1,4 +1,5 @@
-clear
+new text
+another line
 echo "Same text" >> song.txt
 Проверьте измененный URL-адрес, используя команду git remote -v. Теперь вы должны увидеть, что URL-адрес был изменен на SSH-протокол.
 
